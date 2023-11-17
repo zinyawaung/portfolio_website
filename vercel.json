@@ -1,5 +1,15 @@
 {
         "rewrites": [
-          { "source": "/(.*)", "destination": "/" }
+          { "source": "/(.*)", 
+          "destination": "/" }
         ]
-      }
+}
+
+
+'script':
+{
+   "dev": "next dev",
+             ==>  "build": "next build", 
+    "start": "next start",
+    "lint": "next lint"
+}
