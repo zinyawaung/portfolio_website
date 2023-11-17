@@ -1,6 +1,6 @@
 import React from "react";
 import { projectsData } from "./Data";
-import { projectsNav } from "./Data";
+// import { projectsNav } from "./Data";
 import WorkItems from "./WorkItems";
 
 const Works = () => {

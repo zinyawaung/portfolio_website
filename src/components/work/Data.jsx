@@ -38,17 +38,17 @@ export const projectsData = [
               ];  
 
 
-export const projectsNav = [
-        {
-                name:'all',
-        },
-        {
-                name:'web',
-        },
-        {
-                name:'app',
-        },
-        {
-                name:'design',
-        },
-]
+// export const projectsNav = [
+//         {
+//                 name:'all',
+//         },
+//         {
+//                 name:'web',
+//         },
+//         {
+//                 name:'app',
+//         },
+//         {
+//                 name:'design',
+//         },
+// ]
