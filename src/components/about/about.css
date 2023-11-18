@@ -43,7 +43,7 @@
         margin-bottom: var(--mb-2-5);
 }
 
-//* For large devices */
+/* For large devices */
 @media screen and (max-width: 992px) {
   .container {
     margin-left: var(--mb-1-5);
