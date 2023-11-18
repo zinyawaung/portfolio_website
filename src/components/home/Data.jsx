@@ -11,12 +11,12 @@ const Data =()=>{
                 </h1>
                 <h3 className="home__subtitle">
 
-                   Web Developer 
+                <ResolverComponent />  
                 </h3>
                 <p className="home__description">
                 
-                <ResolverComponent /> 
-                {/* I'm a dedicated learner with a passion for web development, programming, and systems analysis, eager to take on challenges and explore new opportunities. */}
+                {/* <ResolverComponent />  */}
+                I'm a dedicated learner with a passion for web development, programming, and systems analysis, eager to take on challenges and explore new opportunities.
                 </p>
 
                 <a href="#contact" className="button button--flex">

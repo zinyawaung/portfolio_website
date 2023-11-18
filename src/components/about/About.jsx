@@ -45,9 +45,7 @@ const About =()=>{
                                 </a>
                             </div>
                   </div>
-               </section>
-             
+               </section>        
         )
 }
-
 export default About

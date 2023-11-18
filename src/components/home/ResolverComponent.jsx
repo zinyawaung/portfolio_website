@@ -70,15 +70,16 @@ const ResolverComponent = () => {
   };
 
   const strings = [
-    'I am a dedicated learner with a passion for web development, programming, and systems analysis, eager to take on challenges and explore new opportunities.',
+    // 'I am a dedicated learner with a passion for web development, programming, and systems analysis, eager to take on challenges and explore new opportunities.',
     // ... other GLaDOS quotes ...
+    'Web Developer',
     '......',
   ];
 
   const options = {
     offset: 0,
     timeout: 5,
-    iterations: 10,
+    iterations: 30,
     characters: [
       'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
       'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'x', 'y', 'x', '#',

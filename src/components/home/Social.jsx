@@ -23,18 +23,18 @@ const Social =()=>{
                 <i class="uil uil-linkedin-alt"></i>
                 </a>
 
-                {/* <a href="https://github.com/zinyawaung" className="home__social-icon" target="_blank">
+                <a href="https://github.com/zinyawaung" className="home__social-icon" target="_blank">
                 <i class="uil uil-github-alt"></i>
-                </a> */}
+                </a>
 
-                <a href="https://github.com/zinyawaung" 
+                {/* <a href="https://github.com/zinyawaung" 
                 className="home__social-icon" target="_blank" 
                 style={{ color: '#333333', textDecoration: 'none' }}
                 onMouseOver={(e) => e.target.style.color = '#black'}
-                onMouseOut={(e) => e.target.style.color = '#333333'} >
+                onMouseOut={(e) => e.target.style.color = '#333333'} > */}
                 {/* Add Lottie animation for GitHub */}
-                <Lottie options={githubOptions} height={20} width={20}/>
-                </a>
+                {/* <Lottie options={githubOptions} height={20} width={20}/>
+                </a> */}
              </div>
         )
 }
