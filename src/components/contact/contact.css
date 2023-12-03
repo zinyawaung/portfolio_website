@@ -62,6 +62,9 @@
         transform: translate(0.25rem);
 }
 
+.contact__success{
+        font: var(--medium-font-size);
+}
 
 .contact__form{
         width: 300px;
