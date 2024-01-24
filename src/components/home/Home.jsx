@@ -19,7 +19,7 @@ const Home =()=>{
                         </div>
 
                         
-                        {/* <ResolverComponent /> */}
+                       
                         
                         
                         <ScrollDown />

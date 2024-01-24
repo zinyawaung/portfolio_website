@@ -8,14 +8,16 @@ export const projectsData = [
                 {
                   id: 1,
                   image: Work1,
-                  title: "Web design",
+                  title: "Weather App",
                   category: "web",
+                  link :"https://weatherapp-l3cv99zt9-zin-yaws-projects.vercel.app/",
                 },
                 {
                   id: 2,
                   image: Work2,
-                  title: "App",
+                  title: "Text to Voice Converter",
                   category: "app",
+                  link:"https://text-to-speech-converter-puce.vercel.app/",
                 },
                 {
                   id: 3,
